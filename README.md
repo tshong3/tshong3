@@ -1,16 +1,16 @@
 ### ✨ Hello, I'm Taeseong Hong ✨
 ---
-#### - Who am I
+#### 🤷‍♂️ Who am I
 ##### - I’m currently working on Korean Air Force.
 ##### - I'm majoring in IoT at Hallym University.
 ---
-#### - Study Language
+#### 🖋 Study Language
 ##### - Python
 ##### - IoT(Arduino, Raspberrypi)
 ##### - C
 ##### - JAVA
 ---
-#### - My Interest
+#### 📒 My Interest
 ##### - CTF
 ##### - Web devolop
 ---
