@@ -1,19 +1,20 @@
-참고 사이트
-https://medevel.com/open-source-survey-tools-2/
-https://github.com/formio/formio
+         참고 사이트
+- 오픈소스 설문조사
+1. https://medevel.com/open-source-survey-tools-2/
+2. https://github.com/formio/formio
+3. https://surveyjs.io/Documentation/Library?id=Getting-Started-The-Very-Basics
 
-nodejs + express https://im-developer.tistory.com/164?category=846747
-  https://www.bezkoder.com/node-js-jwt-authentication-postgresql/
+- nodejs + express + react + jwt 회원가입
+1. https://im-developer.tistory.com/164?category=846747 -> mongodb 이용
+2. https://www.bezkoder.com/node-js-jwt-authentication-postgresql/ -> postgresql 이용
 
-mongodb https://jipro.tistory.com/45
+- postgresql 관련 사이트
+1. https://kentakang.com/136 -> postgresql + nodejs 연동 방법
 
-jwt 를 이용한 회원가입 https://im-developer.tistory.com/167 https://kentakang.com/136
-1. npm i pg --save
-
-
-postgresql 설치방법 https://judo0179.tistory.com/96
-1. docker run -p 5432:5432 --name postgres -e POSTGRES_PASSWORD=1q2w3e4r -d postgres
-2. docker ps -a
-3. docker exec -it postgress /bin/bash
-4. psql -U postgres
-5. \c test tshong3
+- postgresql 설치 방법 https://judo0179.tistory.com/96
+1. docker run -p 5432:5432 --name postgres -e POSTGRES_PASSWORD=1q2w3e4r -d postgres -> docker로 돌림
+2. docker ps -a -> docker 실행중인 프로세스 확인
+3. docker exec -it postgress /bin/bash -> docker로 열어둔 db를 새로운 쉘로 오픈
+4. psql -U postgres -> postgresql 접속
+5. 관련 명령어
+\c -> db 이동 \dt -> db 안에 있는 테이블 조회
