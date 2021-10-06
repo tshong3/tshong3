@@ -12,7 +12,7 @@
 ---
 #### 📒 My Interest
 ##### - CTF
-##### - Web devolop
+##### - Web devolopment
 ---
 
 
